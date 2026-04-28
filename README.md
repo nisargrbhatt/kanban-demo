@@ -1,5 +1,5 @@
 Welcome to Kanban Demo
-URL: https://kanban-demo.nisargrbhatt.workers.dev
+URL: https://kanban-demo-eta.vercel.app
 
 # Getting Started
 
