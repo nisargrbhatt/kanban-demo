@@ -14,6 +14,7 @@ const config = defineConfig({
     tanstackRouter({ target: 'react', autoCodeSplitting: true }),
     viteReact(),
   ],
+  appType: 'spa',
 });
 
 export default config;
